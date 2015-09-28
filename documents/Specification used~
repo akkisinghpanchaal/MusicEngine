@@ -1,3 +1,5 @@
-Live Learning:
+MusicEngine:
 
-We want to use "USER STORIES" for our project because user stories is more detailed and more result oriented than use cases and backlogs. Use cases is just a flow of the things to be done and backlogs just give what have to be done in the applicationin a more crude way. Coming to srs it contains all the requirements but User Stories enables us to think as the user and his requirments and its a  simple and easy representation flow which enables us to land at the result.
+I think USER STORIES should be better than USE CASES. The reason behind this is that user stories gives you information in a detailed yet practical manner. Moreover, they cover up all the things what use case diagrams could, and even explain more than that.
+
+One important aspect of a user story is that it lists out the functionalities from the perspective of every single actor involved in a slightly effective way.
